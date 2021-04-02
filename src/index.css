@@ -1,0 +1,63 @@
+/* Div of Products where all products are available for the sale */
+.div_Products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+.product_h1 {
+  text-align: center;
+}
+
+/* Footer Div  */
+.div_Footer {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  margin-top: 250px;
+}
+
+/* Copyright Icon */
+.copyright_Icon {
+  color: aliceblue;
+  text-align: center;
+}
+
+/* .add_toCartBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+/* product_Componentdiv for styling the div of products */
+.product_Componentdiv {
+  /* margin-top: 1rem; */
+  box-shadow: 2px 1px 2px 1px grey;
+  /* width: 95%; */
+  /* margin-left: auto;
+  margin-right: auto; */
+  border-radius: 2px;
+}
+.product_Componentdiv h1 {
+  text-align: center;
+}
+/* navbar shoping cart */
+/* 
+.right {
+  float: right;
+  list-style: none;
+  justify-content: center;
+}
+.right a {
+  color: honeydew;
+}
+.right a:hover {
+  color: aliceblue;
+} */
+.cart_div {
+  margin: 10px auto;
+  box-shadow: 2px 2px 2px 2px grey;
+  width: 100%;
+  border-radius: 1px solid red;
+  text-align: center;
+  height: auto;
+}
