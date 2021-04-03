@@ -1,0 +1,51 @@
+/* Div of Products where all products are available for the sale inside Product Component*/
+.div_Products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+
+/* Footer Component Styling Start */
+/* Footer Div  inside Footer Component*/
+.div_Footer {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  margin-top: 250px;
+}
+
+/* Copyright Icon inside Footer Component*/
+.copyright_Icon {
+  color: aliceblue;
+  text-align: center;
+}
+
+/* Home Page Styling Start */
+/* Product div inside Home Component */
+.product_Componentdiv {
+  box-shadow: 2px 1px 2px 1px grey;
+  border-radius: 2px;
+}
+/* Product div inside Home Component with h1 heading */
+
+.product_Componentdiv h1 {
+  font-family: "Train One", cursive;
+  text-align: center;
+}
+
+/* Cart Component Divs Styling Start*/
+/*  */
+.cart_Details {
+  width: 100%;
+  height: 395px;
+  margin: 10px auto;
+  box-shadow: 2px 2px 1px 2px black;
+  font-family: "Zilla Slab Highlight", cursive;
+  text-align: center;
+}
+
+/* CartItem Component Heading Font */
+.cart_itemHeadings {
+  font-family: "Pacifico", cursive;
+}
