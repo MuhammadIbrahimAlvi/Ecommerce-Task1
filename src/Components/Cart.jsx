@@ -11,6 +11,7 @@ return<>
 <div className="cart_Carousel"><img src={CartPic} alt="Cart Pic" width="100%" /></div>
 <div className="cart_Details">
 <h2>Cart Details</h2>
+cartItems.
 <div>
   
 </div>

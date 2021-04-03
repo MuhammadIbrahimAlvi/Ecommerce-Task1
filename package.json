@@ -17,8 +17,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
     "homepage": "http://MuhammadIbrahimAlvi.github.io/Ecommerce-Task1"
-
-
   },
   "scripts": {
     "predeploy": "npm run build",
