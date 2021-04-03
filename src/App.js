@@ -10,8 +10,8 @@ const [cartItems,setCartItems]=useState();
     <Switch>
 
  
- <Route path="/Ecommerce-Task1/" exact component={Home}/>
- <Route path='/Ecommerce-Task1/cart' component={Cart}/>
+ <Route path="/" exact component={Home}/>
+ <Route path='/cart' component={Cart}/>
 
  </Switch>
  

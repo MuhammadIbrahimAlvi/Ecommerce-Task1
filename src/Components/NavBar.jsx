@@ -20,7 +20,7 @@ function NavBar() {
   return (<><div className="navComp cart_itemHeadings">
 
 <Navbar bg="dark" variant="dark">
-  <Link to="/Ecommerce-Task1/">
+  <Link to="/">
     <Navbar.Brand href="#home">
       <StoreIcon/>
       Ecommerce Website
@@ -29,7 +29,7 @@ function NavBar() {
     </Link>
 
     <Navbar.Brand href="#cart" >
-    <Link to="/Ecommerce-Task1/cart">
+    <Link to="/cart">
  <Button 
 variant="contained"
 color="secondary"
